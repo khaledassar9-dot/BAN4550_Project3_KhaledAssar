@@ -39,6 +39,9 @@ Started from the class starter notebook and adapted it for SIC 35 (Apple) and SI
 AI tool	Link (or PDF in docs/)	What I used it for
 Gemini	[Insert share link or PDF path in docs/]	Checked merge plan against notebook code, reviewed presentation slides, drafted presentation script, and formatted README.
 Files
+
+GEMINI FILE
+https://gemini.google.com/share/d/1jlqh86IiJZUVZTe-wbwnJK0R83t22YF9?usp=sharing 
 ```
 notebooks/   Assar_Khaled_Project3.ipynb (runs top to bottom on WRDS JupyterHub)
 figures/     figure1_car_by_sue_group.png, figure2_sue_vs_car.png, figure3_loss_share_and_slope.png, merge_map.png
